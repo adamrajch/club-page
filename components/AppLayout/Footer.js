@@ -1,8 +1,12 @@
 import { GithubOutlined } from "@ant-design/icons";
+
 const Footer = (props) => {
   return (
     <div className="footer">
-      <GithubOutlined />
+      <a href="https://github.com/adamrajch" target="_blank">
+        <GithubOutlined />
+      </a>
+
       <style jsx>{`
         min-height: 3vh;
         bottom: 0;
