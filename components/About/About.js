@@ -19,7 +19,7 @@ const About = () => {
           </li>
         </ul>
       </div>
-      <div>images</div>
+      {/* <div>images</div> */}
       <div className="">
         We are one of Chicago's newest arm wrestling clubs, founded in the
         summer of 2020. Despite having a vibrant arm wrestling culture on the
